@@ -1,2 +1,0 @@
-# ejercicioprimerclase
-Created with CodeSandbox
